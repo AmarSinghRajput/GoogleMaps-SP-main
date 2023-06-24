@@ -35,22 +35,22 @@ let package = Package(
         .binaryTarget(
             name: "GoogleMaps",
             url: "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMaps.xcframework.zip",
-            checksum: "7468af4ac88a272270ae9b336d2b87f28bede5c1a2cf7b79d67608da8b0c2ffa"
+            checksum: "8fe07c5850ff4f72677cdedb0c900ae8f06763d6c6b4b4046a49093eb22e1643"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
             url: "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMapsBase.xcframework.zip",
-            checksum: "76f2d3f2ca9f041cf3697b7979be937de8940b42f8bd7397309f144d8e7aa390"
+            checksum: "9e927d5909008d38e8eaaa2e0546a12ba72343f510d015b8425c17d805e7b6e0"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
             url: "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMapsCore.xcframework.zip",
-            checksum: "77a2ae1d85e3b85c596dfe5416c106fda46846f48663cd0672b68a27362c8887"
+            checksum: "64df189496191b9287a45df361609d58bf10c6e46006346d081f59fe7e480ffb"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
             url: "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMapsM4B.xcframework.zip",
-            checksum: "36d5f805d224f33d78c9dee11d513388c0c5c21e567b640c48998a59d1a0b368"
+            checksum: "d349482019f6efbf2a088161691721254ee6fab0bd95d449264f4f6e7df76c56"
         )
     ]
 )
