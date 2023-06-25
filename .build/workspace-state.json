@@ -1,0 +1,70 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "packageRef" : {
+          "identity" : "googlemaps-sp-main",
+          "kind" : "root",
+          "location" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main",
+          "name" : "GoogleMaps-SP-main"
+        },
+        "path" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main/.build/artifacts/googlemaps-sp-main/GoogleMapsCore.xcframework",
+        "source" : {
+          "checksum" : "64df189496191b9287a45df361609d58bf10c6e46006346d081f59fe7e480ffb",
+          "type" : "remote",
+          "url" : "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMapsCore.xcframework.zip"
+        },
+        "targetName" : "GoogleMapsCore"
+      },
+      {
+        "packageRef" : {
+          "identity" : "googlemaps-sp-main",
+          "kind" : "root",
+          "location" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main",
+          "name" : "GoogleMaps-SP-main"
+        },
+        "path" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main/.build/artifacts/googlemaps-sp-main/GoogleMapsM4B.xcframework",
+        "source" : {
+          "checksum" : "d349482019f6efbf2a088161691721254ee6fab0bd95d449264f4f6e7df76c56",
+          "type" : "remote",
+          "url" : "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMapsM4B.xcframework.zip"
+        },
+        "targetName" : "GoogleMapsM4B"
+      },
+      {
+        "packageRef" : {
+          "identity" : "googlemaps-sp-main",
+          "kind" : "root",
+          "location" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main",
+          "name" : "GoogleMaps-SP-main"
+        },
+        "path" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main/.build/artifacts/googlemaps-sp-main/GoogleMapsBase.xcframework",
+        "source" : {
+          "checksum" : "9e927d5909008d38e8eaaa2e0546a12ba72343f510d015b8425c17d805e7b6e0",
+          "type" : "remote",
+          "url" : "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMapsBase.xcframework.zip"
+        },
+        "targetName" : "GoogleMapsBase"
+      },
+      {
+        "packageRef" : {
+          "identity" : "googlemaps-sp-main",
+          "kind" : "root",
+          "location" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main",
+          "name" : "GoogleMaps-SP-main"
+        },
+        "path" : "/Users/amarkumarsingh/Documents/GoogleMaps-SP-main/.build/artifacts/googlemaps-sp-main/GoogleMaps.xcframework",
+        "source" : {
+          "checksum" : "8fe07c5850ff4f72677cdedb0c900ae8f06763d6c6b4b4046a49093eb22e1643",
+          "type" : "remote",
+          "url" : "https://github.com/AmarSinghRajput/GoogleBinaries/releases/download/newTag/GoogleMaps.xcframework.zip"
+        },
+        "targetName" : "GoogleMaps"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 5
+}
